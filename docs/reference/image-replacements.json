@@ -1,0 +1,917 @@
+[
+  {
+    "file": "b-side-1229x1536.webp",
+    "key": "b-side",
+    "source": "public/images/generated/b-side.png"
+  },
+  {
+    "file": "b-side-240x300.webp",
+    "key": "b-side",
+    "source": "public/images/generated/b-side.png"
+  },
+  {
+    "file": "b-side-768x960.webp",
+    "key": "b-side",
+    "source": "public/images/generated/b-side.png"
+  },
+  {
+    "file": "b-side-819x1024.webp",
+    "key": "b-side",
+    "source": "public/images/generated/b-side.png"
+  },
+  {
+    "file": "b-side.webp",
+    "key": "b-side",
+    "source": "public/images/generated/b-side.png"
+  },
+  {
+    "file": "card-cat-1000-240x300.webp",
+    "key": "card-cat",
+    "source": "public/images/generated/card-cat.png"
+  },
+  {
+    "file": "card-cat-1000-768x960.webp",
+    "key": "card-cat",
+    "source": "public/images/generated/card-cat.png"
+  },
+  {
+    "file": "card-cat-1000-819x1024.webp",
+    "key": "card-cat",
+    "source": "public/images/generated/card-cat.png"
+  },
+  {
+    "file": "card-cat-1000.webp",
+    "key": "card-cat",
+    "source": "public/images/generated/card-cat.png"
+  },
+  {
+    "file": "card-cat-600-240x300.webp",
+    "key": "card-cat",
+    "source": "public/images/generated/card-cat.png"
+  },
+  {
+    "file": "card-cat-600.webp",
+    "key": "card-cat",
+    "source": "public/images/generated/card-cat.png"
+  },
+  {
+    "file": "card-cavapoo-1000-240x300.webp",
+    "key": "card-cavapoo",
+    "source": "public/images/generated/card-cavapoo.png"
+  },
+  {
+    "file": "card-cavapoo-1000-768x960.webp",
+    "key": "card-cavapoo",
+    "source": "public/images/generated/card-cavapoo.png"
+  },
+  {
+    "file": "card-cavapoo-1000-819x1024.webp",
+    "key": "card-cavapoo",
+    "source": "public/images/generated/card-cavapoo.png"
+  },
+  {
+    "file": "card-cavapoo-1000.webp",
+    "key": "card-cavapoo",
+    "source": "public/images/generated/card-cavapoo.png"
+  },
+  {
+    "file": "card-cavapoo-600-240x300.webp",
+    "key": "card-cavapoo",
+    "source": "public/images/generated/card-cavapoo.png"
+  },
+  {
+    "file": "card-cavapoo-600.webp",
+    "key": "card-cavapoo",
+    "source": "public/images/generated/card-cavapoo.png"
+  },
+  {
+    "file": "card-maltipoo-1000-240x300.webp",
+    "key": "card-maltipoo",
+    "source": "public/images/generated/card-maltipoo.png"
+  },
+  {
+    "file": "card-maltipoo-1000-768x960.webp",
+    "key": "card-maltipoo",
+    "source": "public/images/generated/card-maltipoo.png"
+  },
+  {
+    "file": "card-maltipoo-1000-819x1024.webp",
+    "key": "card-maltipoo",
+    "source": "public/images/generated/card-maltipoo.png"
+  },
+  {
+    "file": "card-maltipoo-1000.webp",
+    "key": "card-maltipoo",
+    "source": "public/images/generated/card-maltipoo.png"
+  },
+  {
+    "file": "card-maltipoo-600-240x300.webp",
+    "key": "card-maltipoo",
+    "source": "public/images/generated/card-maltipoo.png"
+  },
+  {
+    "file": "card-maltipoo-600.webp",
+    "key": "card-maltipoo",
+    "source": "public/images/generated/card-maltipoo.png"
+  },
+  {
+    "file": "card-poodle-1000-240x300.webp",
+    "key": "card-poodle",
+    "source": "public/images/generated/card-poodle.png"
+  },
+  {
+    "file": "card-poodle-1000-768x960.webp",
+    "key": "card-poodle",
+    "source": "public/images/generated/card-poodle.png"
+  },
+  {
+    "file": "card-poodle-1000-819x1024.webp",
+    "key": "card-poodle",
+    "source": "public/images/generated/card-poodle.png"
+  },
+  {
+    "file": "card-poodle-1000.webp",
+    "key": "card-poodle",
+    "source": "public/images/generated/card-poodle.png"
+  },
+  {
+    "file": "card-poodle-600-240x300.webp",
+    "key": "card-poodle",
+    "source": "public/images/generated/card-poodle.png"
+  },
+  {
+    "file": "card-poodle-600.webp",
+    "key": "card-poodle",
+    "source": "public/images/generated/card-poodle.png"
+  },
+  {
+    "file": "card-poodlemix-1000-240x300.webp",
+    "key": "card-poodlemix",
+    "source": "public/images/generated/card-poodlemix.png"
+  },
+  {
+    "file": "card-poodlemix-1000-768x960.webp",
+    "key": "card-poodlemix",
+    "source": "public/images/generated/card-poodlemix.png"
+  },
+  {
+    "file": "card-poodlemix-1000-819x1024.webp",
+    "key": "card-poodlemix",
+    "source": "public/images/generated/card-poodlemix.png"
+  },
+  {
+    "file": "card-poodlemix-1000.webp",
+    "key": "card-poodlemix",
+    "source": "public/images/generated/card-poodlemix.png"
+  },
+  {
+    "file": "card-poodlemix-600-240x300.webp",
+    "key": "card-poodlemix",
+    "source": "public/images/generated/card-poodlemix.png"
+  },
+  {
+    "file": "card-poodlemix-600.webp",
+    "key": "card-poodlemix",
+    "source": "public/images/generated/card-poodlemix.png"
+  },
+  {
+    "file": "card-samoyed-600-240x300.webp",
+    "key": "card-samoyed",
+    "source": "public/images/generated/card-samoyed.png"
+  },
+  {
+    "file": "card-samoyed-600.webp",
+    "key": "card-samoyed",
+    "source": "public/images/generated/card-samoyed.png"
+  },
+  {
+    "file": "card-shihtzu-1000-240x300.webp",
+    "key": "card-shihtzu",
+    "source": "public/images/generated/card-shihtzu.png"
+  },
+  {
+    "file": "card-shihtzu-1000-768x960.webp",
+    "key": "card-shihtzu",
+    "source": "public/images/generated/card-shihtzu.png"
+  },
+  {
+    "file": "card-shihtzu-1000-819x1024.webp",
+    "key": "card-shihtzu",
+    "source": "public/images/generated/card-shihtzu.png"
+  },
+  {
+    "file": "card-shihtzu-1000.webp",
+    "key": "card-shihtzu",
+    "source": "public/images/generated/card-shihtzu.png"
+  },
+  {
+    "file": "card-shihtzu-600-240x300.webp",
+    "key": "card-shihtzu",
+    "source": "public/images/generated/card-shihtzu.png"
+  },
+  {
+    "file": "card-shihtzu-600.webp",
+    "key": "card-shihtzu",
+    "source": "public/images/generated/card-shihtzu.png"
+  },
+  {
+    "file": "card-towel-1000-240x300.webp",
+    "key": "card-towel",
+    "source": "public/images/generated/card-towel.png"
+  },
+  {
+    "file": "card-towel-1000-768x960.webp",
+    "key": "card-towel",
+    "source": "public/images/generated/card-towel.png"
+  },
+  {
+    "file": "card-towel-1000-819x1024.webp",
+    "key": "card-towel",
+    "source": "public/images/generated/card-towel.png"
+  },
+  {
+    "file": "card-towel-1000.webp",
+    "key": "card-towel",
+    "source": "public/images/generated/card-towel.png"
+  },
+  {
+    "file": "card-towel-600-240x300.webp",
+    "key": "card-towel",
+    "source": "public/images/generated/card-towel.png"
+  },
+  {
+    "file": "card-towel-600.webp",
+    "key": "card-towel",
+    "source": "public/images/generated/card-towel.png"
+  },
+  {
+    "file": "chip-fluffy-150x150.webp",
+    "key": "chip-fluffy",
+    "source": "public/images/chip-fluffy.webp"
+  },
+  {
+    "file": "chip-fluffy-300x300.webp",
+    "key": "chip-fluffy",
+    "source": "public/images/chip-fluffy.webp"
+  },
+  {
+    "file": "chip-fluffy.webp",
+    "key": "chip-fluffy",
+    "source": "public/images/chip-fluffy.webp"
+  },
+  {
+    "file": "chip-muddy-150x150.webp",
+    "key": "chip-muddy",
+    "source": "public/images/chip-muddy.webp"
+  },
+  {
+    "file": "chip-muddy-300x300.webp",
+    "key": "chip-muddy",
+    "source": "public/images/chip-muddy.webp"
+  },
+  {
+    "file": "chip-muddy.webp",
+    "key": "chip-muddy",
+    "source": "public/images/chip-muddy.webp"
+  },
+  {
+    "file": "g-after-240x300.webp",
+    "key": "g-after",
+    "source": "public/images/generated/g-after.png"
+  },
+  {
+    "file": "g-after-768x960.webp",
+    "key": "g-after",
+    "source": "public/images/generated/g-after.png"
+  },
+  {
+    "file": "g-after-819x1024.webp",
+    "key": "g-after",
+    "source": "public/images/generated/g-after.png"
+  },
+  {
+    "file": "g-after.webp",
+    "key": "g-after",
+    "source": "public/images/generated/g-after.png"
+  },
+  {
+    "file": "g-bathtidy-1229x1536.webp",
+    "key": "g-bathtidy",
+    "source": "public/images/generated/g-bathtidy.png"
+  },
+  {
+    "file": "g-bathtidy-240x300.webp",
+    "key": "g-bathtidy",
+    "source": "public/images/generated/g-bathtidy.png"
+  },
+  {
+    "file": "g-bathtidy-768x960.webp",
+    "key": "g-bathtidy",
+    "source": "public/images/generated/g-bathtidy.png"
+  },
+  {
+    "file": "g-bathtidy-819x1024.webp",
+    "key": "g-bathtidy",
+    "source": "public/images/generated/g-bathtidy.png"
+  },
+  {
+    "file": "g-bathtidy.webp",
+    "key": "g-bathtidy",
+    "source": "public/images/generated/g-bathtidy.png"
+  },
+  {
+    "file": "g-before-240x300.webp",
+    "key": "g-before",
+    "source": "public/images/generated/g-before.png"
+  },
+  {
+    "file": "g-before-768x960.webp",
+    "key": "g-before",
+    "source": "public/images/generated/g-before.png"
+  },
+  {
+    "file": "g-before-819x1024.webp",
+    "key": "g-before",
+    "source": "public/images/generated/g-before.png"
+  },
+  {
+    "file": "g-before.webp",
+    "key": "g-before",
+    "source": "public/images/generated/g-before.png"
+  },
+  {
+    "file": "g-cat-1229x1536.webp",
+    "key": "g-cat",
+    "source": "public/images/generated/g-cat.png"
+  },
+  {
+    "file": "g-cat-240x300.webp",
+    "key": "g-cat",
+    "source": "public/images/generated/g-cat.png"
+  },
+  {
+    "file": "g-cat-768x960.webp",
+    "key": "g-cat",
+    "source": "public/images/generated/g-cat.png"
+  },
+  {
+    "file": "g-cat-819x1024.webp",
+    "key": "g-cat",
+    "source": "public/images/generated/g-cat.png"
+  },
+  {
+    "file": "g-cat.webp",
+    "key": "g-cat",
+    "source": "public/images/generated/g-cat.png"
+  },
+  {
+    "file": "g-deshed-1229x1536.webp",
+    "key": "g-deshed",
+    "source": "public/images/generated/g-deshed.png"
+  },
+  {
+    "file": "g-deshed-240x300.webp",
+    "key": "g-deshed",
+    "source": "public/images/generated/g-deshed.png"
+  },
+  {
+    "file": "g-deshed-768x960.webp",
+    "key": "g-deshed",
+    "source": "public/images/generated/g-deshed.png"
+  },
+  {
+    "file": "g-deshed-819x1024.webp",
+    "key": "g-deshed",
+    "source": "public/images/generated/g-deshed.png"
+  },
+  {
+    "file": "g-deshed.webp",
+    "key": "g-deshed",
+    "source": "public/images/generated/g-deshed.png"
+  },
+  {
+    "file": "g-fullgroom-1229x1536.webp",
+    "key": "g-fullgroom",
+    "source": "public/images/generated/g-fullgroom.png"
+  },
+  {
+    "file": "g-fullgroom-240x300.webp",
+    "key": "g-fullgroom",
+    "source": "public/images/generated/g-fullgroom.png"
+  },
+  {
+    "file": "g-fullgroom-768x960.webp",
+    "key": "g-fullgroom",
+    "source": "public/images/generated/g-fullgroom.png"
+  },
+  {
+    "file": "g-fullgroom-819x1024.webp",
+    "key": "g-fullgroom",
+    "source": "public/images/generated/g-fullgroom.png"
+  },
+  {
+    "file": "g-fullgroom.webp",
+    "key": "g-fullgroom",
+    "source": "public/images/generated/g-fullgroom.png"
+  },
+  {
+    "file": "g-hero-1024x576.webp",
+    "key": "g-hero",
+    "source": "public/images/generated/g-hero.png"
+  },
+  {
+    "file": "g-hero-1536x864.webp",
+    "key": "g-hero",
+    "source": "public/images/generated/g-hero.png"
+  },
+  {
+    "file": "g-hero-300x169.webp",
+    "key": "g-hero",
+    "source": "public/images/generated/g-hero.png"
+  },
+  {
+    "file": "g-hero-768x432.webp",
+    "key": "g-hero",
+    "source": "public/images/generated/g-hero.png"
+  },
+  {
+    "file": "g-hero.webp",
+    "key": "g-hero",
+    "source": "public/images/generated/g-hero.png"
+  },
+  {
+    "file": "g-nails-1229x1536.webp",
+    "key": "g-nails",
+    "source": "public/images/generated/g-nails.png"
+  },
+  {
+    "file": "g-nails-240x300.webp",
+    "key": "g-nails",
+    "source": "public/images/generated/g-nails.png"
+  },
+  {
+    "file": "g-nails-768x960.webp",
+    "key": "g-nails",
+    "source": "public/images/generated/g-nails.png"
+  },
+  {
+    "file": "g-nails-819x1024.webp",
+    "key": "g-nails",
+    "source": "public/images/generated/g-nails.png"
+  },
+  {
+    "file": "g-nails.webp",
+    "key": "g-nails",
+    "source": "public/images/generated/g-nails.png"
+  },
+  {
+    "file": "g-puppy-1229x1536.webp",
+    "key": "g-puppy",
+    "source": "public/images/generated/g-puppy.png"
+  },
+  {
+    "file": "g-puppy-240x300.webp",
+    "key": "g-puppy",
+    "source": "public/images/generated/g-puppy.png"
+  },
+  {
+    "file": "g-puppy-768x960.webp",
+    "key": "g-puppy",
+    "source": "public/images/generated/g-puppy.png"
+  },
+  {
+    "file": "g-puppy-819x1024.webp",
+    "key": "g-puppy",
+    "source": "public/images/generated/g-puppy.png"
+  },
+  {
+    "file": "g-puppy.webp",
+    "key": "g-puppy",
+    "source": "public/images/generated/g-puppy.png"
+  },
+  {
+    "file": "g-selfwash-1024x683.webp",
+    "key": "g-selfwash",
+    "source": "public/images/generated/g-selfwash.png"
+  },
+  {
+    "file": "g-selfwash-1536x1024.webp",
+    "key": "g-selfwash",
+    "source": "public/images/generated/g-selfwash.png"
+  },
+  {
+    "file": "g-selfwash-300x200.webp",
+    "key": "g-selfwash",
+    "source": "public/images/generated/g-selfwash.png"
+  },
+  {
+    "file": "g-selfwash-768x512.webp",
+    "key": "g-selfwash",
+    "source": "public/images/generated/g-selfwash.png"
+  },
+  {
+    "file": "g-selfwash.webp",
+    "key": "g-selfwash",
+    "source": "public/images/generated/g-selfwash.png"
+  },
+  {
+    "file": "groom-scissors-900-300x200.webp",
+    "key": "groom-scissors",
+    "source": "public/images/generated/groom-scissors.png"
+  },
+  {
+    "file": "groom-scissors-900-768x512.webp",
+    "key": "groom-scissors",
+    "source": "public/images/generated/groom-scissors.png"
+  },
+  {
+    "file": "groom-scissors-900.webp",
+    "key": "groom-scissors",
+    "source": "public/images/generated/groom-scissors.png"
+  },
+  {
+    "file": "peek3-beagle-300x205.webp",
+    "key": "peek3-beagle",
+    "source": "public/images/beagle-peek.webp"
+  },
+  {
+    "file": "peek3-beagle.webp",
+    "key": "peek3-beagle",
+    "source": "public/images/beagle-peek.webp"
+  },
+  {
+    "file": "peek3-cat.webp",
+    "key": "peek3-cat",
+    "source": "public/images/cat-peek.webp"
+  },
+  {
+    "file": "peek3-cavapoo-150x150.webp",
+    "key": "peek3-cavapoo",
+    "source": "public/images/cavapoo-peek.webp"
+  },
+  {
+    "file": "peek3-cavapoo-297x300.webp",
+    "key": "peek3-cavapoo",
+    "source": "public/images/cavapoo-peek.webp"
+  },
+  {
+    "file": "peek3-cavapoo.webp",
+    "key": "peek3-cavapoo",
+    "source": "public/images/cavapoo-peek.webp"
+  },
+  {
+    "file": "peek3-yorkie-265x300.webp",
+    "key": "peek3-yorkie",
+    "source": "public/images/yorkie-peek.webp"
+  },
+  {
+    "file": "peek3-yorkie.webp",
+    "key": "peek3-yorkie",
+    "source": "public/images/yorkie-peek.webp"
+  },
+  {
+    "file": "prod-balm.webp",
+    "key": "prod-balm",
+    "source": "public/images/generated/prod-balm.png"
+  },
+  {
+    "file": "prod-bottle.webp",
+    "key": "prod-bottle",
+    "source": "public/images/generated/prod-bottle.png"
+  },
+  {
+    "file": "prod-catbrush.webp",
+    "key": "prod-catbrush",
+    "source": "public/images/generated/prod-catbrush.png"
+  },
+  {
+    "file": "prod-cattreats.webp",
+    "key": "prod-cattreats",
+    "source": "public/images/generated/prod-cattreats.png"
+  },
+  {
+    "file": "prod-collar.webp",
+    "key": "prod-collar",
+    "source": "public/images/generated/prod-collar.png"
+  },
+  {
+    "file": "prod-comb.webp",
+    "key": "prod-comb",
+    "source": "public/images/generated/prod-comb.png"
+  },
+  {
+    "file": "prod-curry.webp",
+    "key": "prod-curry",
+    "source": "public/images/generated/prod-curry.png"
+  },
+  {
+    "file": "prod-detangler.webp",
+    "key": "prod-detangler",
+    "source": "public/images/generated/prod-detangler.png"
+  },
+  {
+    "file": "prod-leash.webp",
+    "key": "prod-leash",
+    "source": "public/images/generated/prod-leash.png"
+  },
+  {
+    "file": "prod-salmon.webp",
+    "key": "prod-salmon",
+    "source": "public/images/generated/prod-salmon.png"
+  },
+  {
+    "file": "prod-slicker.webp",
+    "key": "prod-slicker",
+    "source": "public/images/generated/prod-slicker.png"
+  },
+  {
+    "file": "prod-towel.webp",
+    "key": "prod-towel",
+    "source": "public/images/generated/prod-towel.png"
+  },
+  {
+    "file": "prod-treats.webp",
+    "key": "prod-treats",
+    "source": "public/images/generated/prod-treats.png"
+  },
+  {
+    "file": "s-2014-1024x768.webp",
+    "key": "s-2014",
+    "source": "public/images/generated/s-2014.png"
+  },
+  {
+    "file": "s-2014-1536x1152.webp",
+    "key": "s-2014",
+    "source": "public/images/generated/s-2014.png"
+  },
+  {
+    "file": "s-2014-300x225.webp",
+    "key": "s-2014",
+    "source": "public/images/generated/s-2014.png"
+  },
+  {
+    "file": "s-2014-768x576.webp",
+    "key": "s-2014",
+    "source": "public/images/generated/s-2014.png"
+  },
+  {
+    "file": "s-2014.webp",
+    "key": "s-2014",
+    "source": "public/images/generated/s-2014.png"
+  },
+  {
+    "file": "s-interior-1024x576.webp",
+    "key": "s-interior",
+    "source": "public/images/generated/s-interior.png"
+  },
+  {
+    "file": "s-interior-1536x864.webp",
+    "key": "s-interior",
+    "source": "public/images/generated/s-interior.png"
+  },
+  {
+    "file": "s-interior-300x169.webp",
+    "key": "s-interior",
+    "source": "public/images/generated/s-interior.png"
+  },
+  {
+    "file": "s-interior-768x432.webp",
+    "key": "s-interior",
+    "source": "public/images/generated/s-interior.png"
+  },
+  {
+    "file": "s-interior.webp",
+    "key": "s-interior",
+    "source": "public/images/generated/s-interior.png"
+  },
+  {
+    "file": "s-storefront-1024x768.webp",
+    "key": "s-storefront",
+    "source": "public/images/generated/s-storefront.png"
+  },
+  {
+    "file": "s-storefront-1536x1152.webp",
+    "key": "s-storefront",
+    "source": "public/images/generated/s-storefront.png"
+  },
+  {
+    "file": "s-storefront-300x225.webp",
+    "key": "s-storefront",
+    "source": "public/images/generated/s-storefront.png"
+  },
+  {
+    "file": "s-storefront-768x576.webp",
+    "key": "s-storefront",
+    "source": "public/images/generated/s-storefront.png"
+  },
+  {
+    "file": "s-storefront.webp",
+    "key": "s-storefront",
+    "source": "public/images/generated/s-storefront.png"
+  },
+  {
+    "file": "s-team-june-1229x1536.webp",
+    "key": "s-team-june",
+    "source": "public/images/generated/s-team-june.png"
+  },
+  {
+    "file": "s-team-june-240x300.webp",
+    "key": "s-team-june",
+    "source": "public/images/generated/s-team-june.png"
+  },
+  {
+    "file": "s-team-june-768x960.webp",
+    "key": "s-team-june",
+    "source": "public/images/generated/s-team-june.png"
+  },
+  {
+    "file": "s-team-june-819x1024.webp",
+    "key": "s-team-june",
+    "source": "public/images/generated/s-team-june.png"
+  },
+  {
+    "file": "s-team-june.webp",
+    "key": "s-team-june",
+    "source": "public/images/generated/s-team-june.png"
+  },
+  {
+    "file": "s-team-nell-1229x1536.webp",
+    "key": "s-team-nell",
+    "source": "public/images/generated/s-team-nell.png"
+  },
+  {
+    "file": "s-team-nell-240x300.webp",
+    "key": "s-team-nell",
+    "source": "public/images/generated/s-team-nell.png"
+  },
+  {
+    "file": "s-team-nell-768x960.webp",
+    "key": "s-team-nell",
+    "source": "public/images/generated/s-team-nell.png"
+  },
+  {
+    "file": "s-team-nell-819x1024.webp",
+    "key": "s-team-nell",
+    "source": "public/images/generated/s-team-nell.png"
+  },
+  {
+    "file": "s-team-nell.webp",
+    "key": "s-team-nell",
+    "source": "public/images/generated/s-team-nell.png"
+  },
+  {
+    "file": "s-team-ruth-1229x1536.webp",
+    "key": "s-team-ruth",
+    "source": "public/images/generated/s-team-ruth.png"
+  },
+  {
+    "file": "s-team-ruth-240x300.webp",
+    "key": "s-team-ruth",
+    "source": "public/images/generated/s-team-ruth.png"
+  },
+  {
+    "file": "s-team-ruth-768x960.webp",
+    "key": "s-team-ruth",
+    "source": "public/images/generated/s-team-ruth.png"
+  },
+  {
+    "file": "s-team-ruth-819x1024.webp",
+    "key": "s-team-ruth",
+    "source": "public/images/generated/s-team-ruth.png"
+  },
+  {
+    "file": "s-team-ruth.webp",
+    "key": "s-team-ruth",
+    "source": "public/images/generated/s-team-ruth.png"
+  },
+  {
+    "file": "s-team-tomas-1229x1536.webp",
+    "key": "s-team-tomas",
+    "source": "public/images/generated/s-team-tomas.png"
+  },
+  {
+    "file": "s-team-tomas-240x300.webp",
+    "key": "s-team-tomas",
+    "source": "public/images/generated/s-team-tomas.png"
+  },
+  {
+    "file": "s-team-tomas-768x960.webp",
+    "key": "s-team-tomas",
+    "source": "public/images/generated/s-team-tomas.png"
+  },
+  {
+    "file": "s-team-tomas-819x1024.webp",
+    "key": "s-team-tomas",
+    "source": "public/images/generated/s-team-tomas.png"
+  },
+  {
+    "file": "s-team-tomas.webp",
+    "key": "s-team-tomas",
+    "source": "public/images/generated/s-team-tomas.png"
+  },
+  {
+    "file": "selfwash-mitt-700-150x150.webp",
+    "key": "selfwash-mitt",
+    "source": "public/images/generated/selfwash-mitt.png"
+  },
+  {
+    "file": "selfwash-mitt-700-300x300.webp",
+    "key": "selfwash-mitt",
+    "source": "public/images/generated/selfwash-mitt.png"
+  },
+  {
+    "file": "selfwash-mitt-700.webp",
+    "key": "selfwash-mitt",
+    "source": "public/images/generated/selfwash-mitt.png"
+  },
+  {
+    "file": "selfwash-tub-1800-1024x683.webp",
+    "key": "selfwash-tub",
+    "source": "public/images/generated/selfwash-tub.png"
+  },
+  {
+    "file": "selfwash-tub-1800-1536x1024.webp",
+    "key": "selfwash-tub",
+    "source": "public/images/generated/selfwash-tub.png"
+  },
+  {
+    "file": "selfwash-tub-1800-300x200.webp",
+    "key": "selfwash-tub",
+    "source": "public/images/generated/selfwash-tub.png"
+  },
+  {
+    "file": "selfwash-tub-1800-768x512.webp",
+    "key": "selfwash-tub",
+    "source": "public/images/generated/selfwash-tub.png"
+  },
+  {
+    "file": "selfwash-tub-1800.webp",
+    "key": "selfwash-tub",
+    "source": "public/images/generated/selfwash-tub.png"
+  },
+  {
+    "file": "sh-counter-1024x576.webp",
+    "key": "sh-counter",
+    "source": "public/images/generated/sh-counter.png"
+  },
+  {
+    "file": "sh-counter-1536x864.webp",
+    "key": "sh-counter",
+    "source": "public/images/generated/sh-counter.png"
+  },
+  {
+    "file": "sh-counter-300x169.webp",
+    "key": "sh-counter",
+    "source": "public/images/generated/sh-counter.png"
+  },
+  {
+    "file": "sh-counter-768x432.webp",
+    "key": "sh-counter",
+    "source": "public/images/generated/sh-counter.png"
+  },
+  {
+    "file": "sh-counter.webp",
+    "key": "sh-counter",
+    "source": "public/images/generated/sh-counter.png"
+  },
+  {
+    "file": "size-l-150x150.webp",
+    "key": "size-l",
+    "source": "public/images/generated/card-samoyed.png"
+  },
+  {
+    "file": "size-l.webp",
+    "key": "size-l",
+    "source": "public/images/generated/card-samoyed.png"
+  },
+  {
+    "file": "size-m-150x150.webp",
+    "key": "size-m",
+    "source": "public/images/cavapoo-peek.webp"
+  },
+  {
+    "file": "size-m.webp",
+    "key": "size-m",
+    "source": "public/images/cavapoo-peek.webp"
+  },
+  {
+    "file": "size-s-150x150.webp",
+    "key": "size-s",
+    "source": "public/images/yorkie-peek.webp"
+  },
+  {
+    "file": "size-s.webp",
+    "key": "size-s",
+    "source": "public/images/yorkie-peek.webp"
+  },
+  {
+    "file": "size-xl-150x150.webp",
+    "key": "size-xl",
+    "source": "public/images/generated/size-xl.png"
+  },
+  {
+    "file": "size-xl.webp",
+    "key": "size-xl",
+    "source": "public/images/generated/size-xl.png"
+  }
+]

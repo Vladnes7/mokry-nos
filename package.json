@@ -1,0 +1,15 @@
+{
+  "name": "mokry-nos",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "node scripts/build.mjs",
+    "build:pages": "node scripts/pages-build.mjs",
+    "check:pages": "node scripts/check-pages.mjs",
+    "import:reference": "node scripts/import-reference.mjs",
+    "adapt": "node scripts/adapt.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "devDependencies": { "linkedom": "^0.18.12", "vite": "^6.4.1" }
+}
