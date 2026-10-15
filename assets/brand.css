@@ -1,0 +1,20 @@
+@font-face{font-family:Onest;src:url('/mokry-nos/fonts/onest-regular.ttf') format('truetype');font-weight:400;font-display:swap}
+@font-face{font-family:Onest;src:url('/mokry-nos/fonts/onest-medium.ttf') format('truetype');font-weight:500;font-display:swap}
+@font-face{font-family:Onest;src:url('/mokry-nos/fonts/onest-semibold.ttf') format('truetype');font-weight:600;font-display:swap}
+@font-face{font-family:Onest;src:url('/mokry-nos/fonts/onest-bold.ttf') format('truetype');font-weight:700;font-display:swap}
+@font-face{font-family:Onest;src:url('/mokry-nos/fonts/onest-extrabold.ttf') format('truetype');font-weight:800 900;font-display:swap}
+@font-face{font-family:Caveat;src:url('/mokry-nos/fonts/caveat-bold.ttf') format('truetype');font-weight:400 900;font-display:swap}
+:root{--f-display:Onest,system-ui,sans-serif;--f-body:Onest,system-ui,sans-serif;--f-hand:Caveat,cursive}
+.logo{white-space:nowrap;letter-spacing:-.055em;font-weight:800}
+.hero-title{--t-hero:clamp(3rem,1rem + 8.3vw,9.4rem);font-size:var(--t-hero);letter-spacing:-.075em}
+.hero-lead{max-width:520px}
+.hero-title .ht-line{white-space:nowrap}
+.foot-word{font-size:clamp(3rem,.6rem + 13.5vw,17rem);letter-spacing:-.075em}
+input,select,textarea,button{font-family:inherit}
+svg text,svg tspan,svg textPath{font-family:var(--f-body)}
+.header-phone{font-size:.875rem}
+.ptag-price{white-space:nowrap;font-size:clamp(1.5rem,2.4vw,2.5rem)}
+.ledge-price{white-space:nowrap}
+.site-footer .footer-brand{font-family:var(--f-display)}
+@media(max-width:760px){.hero-title{font-size:clamp(2.05rem,10.4vw,4rem)}.logo{font-size:1.13rem}.hero-lead{max-width:340px}.ptag-price{font-size:1.7rem}}
+@media(prefers-reduced-motion:reduce){.bubble-b{animation:none!important}}

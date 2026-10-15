@@ -1,0 +1,24 @@
+{
+  "routes": [
+    "/",
+    "/grooming/",
+    "/studio/",
+    "/shop/",
+    "/book/",
+    "/privacy/",
+    "/terms/",
+    "/shop/oat-wash/",
+    "/shop/slicker/",
+    "/shop/curry/",
+    "/shop/lead/",
+    "/shop/biscuits/",
+    "/shop/detangler/",
+    "/shop/comb/",
+    "/shop/towel/",
+    "/shop/paw-balm/",
+    "/shop/collar/",
+    "/shop/salmon-bites/",
+    "/shop/cat-brush/",
+    "/shop/cat-treats/"
+  ]
+}
